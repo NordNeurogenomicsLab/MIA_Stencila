@@ -437,8 +437,7 @@ We used paired transcriptomic and neuroanatomical analyses to map changes in the
 
 figure: Figure 1.
 :::
-![](elife-60100.rmd.media/fig1.jpg)
-![](elife-60100.rmd.media/Fig1a)
+![](elife-60100.rmd.media/Fig1a.jpg)
 
 
 ## Differential expression across embryonic brain development following maternal immune activation via poly(I:C) injection at E12.5.

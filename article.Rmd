@@ -31,6 +31,17 @@ authors:
       addressLocality: Davis
       type: PostalAddress
     type: Organization        
+- givenNames: Myka L
+  familyNames: Estes
+  type: Person
+  emails: 
+  affiliations:
+  - name: UC Davis
+    address:
+      addressCountry: United States
+      addressLocality: Davis
+      type: PostalAddress
+    type: Organization            
 - givenNames: Karol
   familyNames: Cichewicz
   type: Person

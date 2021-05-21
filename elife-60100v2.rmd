@@ -439,6 +439,67 @@ figure: Figure 1.
 :::
 ![](elife-60100.rmd.media/Fig1a.jpg)
 
+```{r}
+
+# Global R markdown code chunk options
+knitr::opts_chunk$set(message=FALSE, 
+                      warning = FALSE, 
+                      error=FALSE, 
+                      echo=TRUE, 
+                      cache=TRUE, 
+                      fig.width = 7, fig.height = 6, 
+                      fig.align = 'left')
+
+# R packages
+library(sva)
+library(RUVnormalize)
+library(pheatmap)
+library(edgeR)
+library(GenomicFeatures)
+library(mclust)
+library(parallel)
+library(ggplot2)
+library(reshape2)
+library(dplyr)
+library(data.table)
+library(DT)
+library(RColorBrewer)
+library(knitr)
+library(ggrepel)
+library(gridExtra)
+library(grid)
+library(plyr)
+library(plotly)
+library(Hmisc)
+
+```
+
+
+```{r}
+exp.data <- read.csv("./Extra_submission files/Gene_counts.csv")
+rownames(exp.data) <- exp.data$X
+exp.data$X <- NULL
+
+sample.info <- read.csv("./Extra_submission files/metadata.csv")
+
+load("./Extra_submission files/exonic.gene.sizes")
+
+# Exonic gene sizes were calculated as follows:
+# Generate mm9 list of exon sizes 
+# Method description at: https://www.biostars.org/p/83901/
+
+#txdb <- makeTxDbFromGFF("G:/Shared drives/Nord Lab - Personal #Folders/Karol/Genomes/Mus_musculus/UCSC/mm9/Annotation/genes.gtf", #format="gtf")
+#exons.list.per.gene <- exonsBy(txdb,by="gene")
+
+# I parallelized this increasing the speed of the process >2x on a 4-core (logical) machine. 
+# Use mclapply instead of parLapply if you use a Mac.
+#cl <- makeCluster(detectCores())
+#exonic.gene.sizes <- parallel::parLapply(cl, #exons.list.per.gene,function(x){sum(width(reduce(x)))})
+#stopCluster(cl)
+```
+
+
+
 
 ## Differential expression across embryonic brain development following maternal immune activation via poly(I:C) injection at E12.5.
 

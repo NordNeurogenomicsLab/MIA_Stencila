@@ -49,7 +49,6 @@ authors:
       addressLocality: Davis
       type: PostalAddress
     type: Organization
-genre: Research Article
 - givenNames: Myka L
   familyNames: Estes
   type: Person
@@ -61,7 +60,6 @@ genre: Research Article
       addressLocality: Davis
       type: PostalAddress
     type: Organization
-genre: Research Article
 - givenNames: Karol
   familyNames: Cichewicz
   type: Person
@@ -73,7 +71,6 @@ genre: Research Article
       addressLocality: Davis
       type: PostalAddress
     type: Organization
-genre: Research Article
 - givenNames: Karol
   familyNames: Cichewicz
   type: Person

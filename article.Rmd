@@ -23,7 +23,6 @@ authors:
 - givenNames: Cesar
   familyNames: Canales
   type: Person
-  emails: ccanales@ucdavis.edu
   affiliations:
   - name: UC Davis
     address:
@@ -34,7 +33,6 @@ authors:
 - givenNames: Myka L
   familyNames: Estes
   type: Person
-  emails: ccanales@ucdavis.edu
   affiliations:
   - name: UC Davis
     address:
@@ -45,7 +43,6 @@ authors:
 - givenNames: Karol
   familyNames: Cichewicz
   type: Person
-  emails: kcichewicz@ucdavis.edu
   affiliations:
   - name: UC Davis
     address:

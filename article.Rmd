@@ -1,31 +1,37 @@
 ---
-title: "Differential Gene Expression"
-subtitle: |
-  [Canales et al. 2020: A temporal map of maternal immune activation-induced changes \n reveals a shift in neurodevelopmentiming and perturbed cortical development in mice](https://elifesciences.org/articles/60100) 
- 
-author: |
-  | Data analysis by:
-  | Karol Cichewicz, kcichewicz@ucdavis.edu
-  | Alexander Nord, asnord@ucdavis.edu, [Lab website](https://nordlab.faculty.ucdavis.edu/)
-  Raw data available at [GSE166376](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166376)
-
-abstract: |
-  **Background** Environmental insults that activate the maternal immune system are potent primers of developmental neuropathology and maternal immune activation (MIA) has emerged as a risk factor for neurodevelopmental and psychiatric disorders. Animal models of MIA provide an opportunity to identify molecular pathways that initiate disease processes and lead to neuropathology and behavioral deficits in offspring. MIA-induced behaviors are accompanied by anatomical and neurochemical alterations in adult offspring that parallel those seen in affected human populations.
-  
-  **Methods** We performed transcriptional profiling and neuroanatomical characterization in a time course across mouse embryonic cortical development, following MIA via single injection of the viral mimic polyinosinic:polycytidylic acid (polyI:C) at E12.5. Transcriptional changes identified in the cortex of MIA offspring at E17.5 were validated and mapped to cortical neuroanatomy and cell types via protein analysis and immunohistochemistry.
-  
-  **Results** MIA induced strong transcriptomic signatures, including induction of genes associated with hypoxia, immune signaling, and angiogenesis. The acute response identified 6h after the MIA insult was followed by changes in proliferation, neuronal and glial differentiation, and cortical lamination that emerged at E14.5 and peaked at E17.5. Decreased numbers of proliferative cell types in germinal zones and alterations in neuronal and glial cell types across cortical lamina were identified in the MIA-exposed cortex.
-  
-  **Conclusions** MIA-induced transcriptomic signatures in fetal offspring overlap significantly with perturbations identified in neurodevelopmental disorders (NDDs), and provide novel insights into alterations in molecular and developmental timing processes linking MIA and neuropathology, potentially revealing new targets for development of novel approaches for earlier diagnosis and treatment of these disorders.
-  
-output:
-  html_document:
-    code_folding: hide
-    theme: spacelab
-    toc: true
-    toc_depth: 4
-    toc_float: true
-urlcolor: blue
+title: Sequential perturbations to mouse corticogenesis following in utero maternal immune activation
+editors:
+- givenNames: Editor
+  familyNames: Editor2
+  type: Person
+  affiliations:
+  - name: UC Davis
+    address:
+      addressCountry: USA
+      type: PostalAddress
+    type: Organization
+datePublished:
+  value: '2020-11-03'
+  type: Date
+dateReceived:
+  value: '2020-06-22'
+  type: Date
+dateAccepted:
+  value: '2020-10-14'
+  type: Date
+authors:
+- givenNames: Karol
+  familyNames: Cichewicz
+  type: Person
+  emails: kcichewicz@ucdavis.edu
+  affiliations:
+  - name: UC Davis
+    address:
+      addressCountry: USA
+      addressLocality: Davis
+      type: PostalAddress
+    type: Organization
+genre: Research Article
 ---
 
 # Interactive article under construction

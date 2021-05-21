@@ -1,13 +1,13 @@
 ---
 title: Sequential perturbations to mouse corticogenesis following in utero maternal immune activation
 editors:
-- givenNames: XX
-  familyNames: XX
+- givenNames: Kathryn Song Eng
+  familyNames: Cheah
   type: Person
   affiliations:
-  - name: XXX
+  - name: The University of Hong Kong
     address:
-      addressCountry: XXX
+      addressCountry: Hong Kong
       type: PostalAddress
     type: Organization
 ---

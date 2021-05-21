@@ -82,7 +82,6 @@ authors:
       addressLocality: Davis
       type: PostalAddress
     type: Organization
-genre: Research Article
 ---
 
 # Interactive article under construction

@@ -10,6 +10,27 @@ editors:
       addressCountry: Hong Kong
       type: PostalAddress
     type: Organization
+- givenNames: Anita
+  familyNames: Bhattacharyya
+  type: Person
+  affiliations:
+  - name: University of Wisconsin, Madison
+    address:
+      addressCountry: United States
+      type: PostalAddress
+    type: Organization    
+authors:
+- givenNames: Karol
+  familyNames: Cichewicz
+  type: Person
+  emails: kcichewicz@ucdavis.edu
+  affiliations:
+  - name: UC Davis
+    address:
+      addressCountry: United States
+      addressLocality: Davis
+      type: PostalAddress
+    type: Organization
 ---
 
 # Interactive article under construction

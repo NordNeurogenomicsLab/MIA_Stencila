@@ -1,0 +1,687 @@
+---
+authors:
+  - givenNames:
+      - Cesar
+      - P
+    familyNames:
+      - Canales
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Myka
+      - L
+    familyNames:
+      - Estes
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Karol
+    familyNames:
+      - Cichewicz
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Kartik
+    familyNames:
+      - Angara
+    type: Person
+    affiliations:
+      - name: >-
+          Department of Pediatrics & Human Development, Michigan State
+          University
+        address:
+          addressCountry: United States
+          addressLocality: East Lansing
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - John
+      - Paul
+    familyNames:
+      - Aboubechara
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Scott
+    familyNames:
+      - Cameron
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Kathryn
+    familyNames:
+      - Prendergast
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Linda
+    familyNames:
+      - Su-Feher
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Iva
+    familyNames:
+      - Zdilar
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Ellie
+      - J
+    familyNames:
+      - Kreun
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Emma
+      - C
+    familyNames:
+      - Connolly
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Jin
+      - Myeong
+    familyNames:
+      - Seo
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Jack
+      - B
+    familyNames:
+      - Goon
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Kathleen
+    familyNames:
+      - Farrelly
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Tyler
+      - W
+    familyNames:
+      - Stradleigh
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Deborah
+    familyNames:
+      - van
+      - der
+      - List
+    type: Person
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Lori
+    familyNames:
+      - Haapanen
+    type: Person
+    affiliations:
+      - name: Division of Rheumatology, Allergy and Clinical Immunology, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Judy
+    familyNames:
+      - Van
+      - de
+      - Water
+    type: Person
+    affiliations:
+      - name: Division of Rheumatology, Allergy and Clinical Immunology, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Daniel
+    familyNames:
+      - Vogt
+    type: Person
+    affiliations:
+      - name: >-
+          Department of Pediatrics & Human Development, Michigan State
+          University
+        address:
+          addressCountry: United States
+          addressLocality: East Lansing
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - A
+      - Kimberley
+    familyNames:
+      - McAllister
+    type: Person
+    emails:
+      - kmcallister@ucdavis.edu
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+  - givenNames:
+      - Alex
+      - S
+    familyNames:
+      - Nord
+    type: Person
+    emails:
+      - asnord@ucdavis.edu
+    affiliations:
+      - name: Center for Neuroscience, UC Davis
+        address:
+          addressCountry: United States
+          addressLocality: Davis
+          type: PostalAddress
+        type: Organization
+editors:
+  - givenNames:
+      - Anita
+    familyNames:
+      - Bhattacharyya
+    type: Person
+    affiliations:
+      - name: University of Wisconsin, Madison
+        address:
+          addressCountry: United States
+          type: PostalAddress
+        type: Organization
+datePublished:
+  value: '2021-03-05'
+  type: Date
+dateReceived:
+  value: '2020-06-16'
+  type: Date
+dateAccepted:
+  value: '2021-03-02'
+  type: Date
+title: >-
+  Sequential perturbations to mouse corticogenesis following in utero maternal
+  immune activation
+description: >-
+  In utero exposure to maternal immune activation (MIA) is an environmental risk
+  factor for neurodevelopmental and neuropsychiatric disorders. Animal models
+  provide an opportunity to identify mechanisms driving neuropathology
+  associated with MIA. We performed time-course transcriptional profiling of
+  mouse cortical development following induced MIA via poly(I:C) injection at
+  E12.5. MIA-driven transcriptional changes were validated via protein analysis,
+  and parallel perturbations to cortical neuroanatomy were identified via
+  imaging. MIA-induced acute upregulation of genes associated with hypoxia,
+  immune signaling, and angiogenesis, by 6 hr following exposure. This acute
+  response was followed by changes in proliferation, neuronal and glial
+  specification, and cortical lamination that emerged at E14.5 and peaked at
+  E17.5. Decreased numbers of proliferative cells in germinal zones and
+  alterations in neuronal and glial populations were identified in the
+  MIA-exposed cortex. Overall, paired transcriptomic and neuroanatomical
+  characterization revealed a sequence of perturbations to corticogenesis driven
+  by mid-gestational MIA.
+isPartOf:
+  volumeNumber: 10
+  isPartOf:
+    title: eLife
+    issns:
+      - 2050-084X
+    identifiers:
+      - name: nlm-ta
+        propertyID: https://registry.identifiers.org/registry/nlm-ta
+        value: elife
+        type: PropertyValue
+      - name: publisher-id
+        propertyID: https://registry.identifiers.org/registry/publisher-id
+        value: eLife
+        type: PropertyValue
+    publisher:
+      name: eLife Sciences Publications, Ltd
+      type: Organization
+    type: Periodical
+  type: PublicationVolume
+licenses:
+  - url: http://creativecommons.org/licenses/by/4.0/
+    content:
+      - content:
+          - 'This article is distributed under the terms of the '
+          - content:
+              - Creative Commons Attribution License
+            target: http://creativecommons.org/licenses/by/4.0/
+            type: Link
+          - >-
+            , which permits unrestricted use and redistribution provided that
+            the original author and source are credited.
+        type: Paragraph
+    type: CreativeWork
+keywords:
+  - MIA
+  - RNA-Seq
+  - transcriptomic
+  - brain development
+  - WGCNA
+  - Mouse
+identifiers:
+  - name: publisher-id
+    propertyID: https://registry.identifiers.org/registry/publisher-id
+    value: 60100
+    type: PropertyValue
+  - name: doi
+    propertyID: https://registry.identifiers.org/registry/doi
+    value: 10.7554/eLife.60100
+    type: PropertyValue
+  - name: elocation-id
+    propertyID: https://registry.identifiers.org/registry/elocation-id
+    value: e60100
+    type: PropertyValue
+fundedBy:
+  - identifiers:
+      - value: 2T32MH073124-16
+        type: PropertyValue
+    funders:
+      - name: National Institute of Mental Health
+        type: Organization
+    type: MonetaryGrant
+  - identifiers:
+      - value: 5R21MH116681-02
+        type: PropertyValue
+    funders:
+      - name: National Institute of Mental Health
+        type: Organization
+    type: MonetaryGrant
+  - identifiers: []
+    funders:
+      - name: Brain Research Foundation
+        type: Organization
+    type: MonetaryGrant
+  - identifiers: []
+    funders:
+      - name: UCD
+        type: Organization
+    type: MonetaryGrant
+  - identifiers:
+      - value: GM119831
+        type: PropertyValue
+    funders:
+      - name: National Institute of General Medical Sciences
+        type: Organization
+    type: MonetaryGrant
+  - identifiers:
+      - value: P50 MH106438
+        type: PropertyValue
+    funders:
+      - name: National Institute of Mental Health
+        type: Organization
+    type: MonetaryGrant
+  - identifiers:
+      - value: T32MH112507
+        type: PropertyValue
+    funders:
+      - name: National Institute of Mental Health
+        type: Organization
+    type: MonetaryGrant
+about:
+  - name: Genetics and Genomics
+    type: DefinedTerm
+  - name: Neuroscience
+    type: DefinedTerm
+genre:
+  - Research Article
+bibliography: elife-60100.references.bib
+---
+
+# Introduction
+
+Epidemiological association between maternal infection and neurodevelopmental disorders (NDDs) has been found for autism spectrum disorder (ASD), schizophrenia (SZ), bipolar disorder (BPD), anxiety, and major depressive disorder (MDD) [@bib10; @bib26; @bib61; @bib62]. Indeed, maternal immune activation (MIA) itself is sufficient to produce NDD-relevant outcomes in offspring in animal models [@bib12; @bib47]. Offspring from female mice exposed to the toll-like receptor 3 (TLR3) agonist and viral mimic polyinosinic:polycytidylic acid \[poly(I:C)\], and offspring in maternal immune activation models using the bacterial mimic lipopolysaccharide (LPS) [@bib17; @bib59; @bib71], recapitulate neuropathologies and aberrant behaviors seen in offspring born to flu-infected dams [@bib69; @bib72]. MIA in mice produces behavioral and cognitive abnormalities with relevance across multiple NDD diagnostic boundaries [@bib27; @bib49; @bib64].
+
+MIA-induced outcomes in adult offspring have been well characterized; however, mechanisms of initiation and progression of NDD-related brain pathology remain poorly defined. Poly(I:C) increases proinflammatory cytokines such as IL-1β, IL-6, CXCL1, and TNF-α in the maternal circulation [@bib6; @bib16; @bib32; @bib53; @bib52; @bib72]. Downstream pathological changes in the brains of offspring have been reported across cell types, from neurons to microglia, and these changes have been linked to perturbations in proliferation, migration, and maturation in the developing brain [@bib29; @bib70; @bib73; @bib89; @bib91]. Recent studies have identified acute transcriptomic changes in fetal brain in mice and rats at single time-points (3–4 hr) following MIA, with significant overlap between transcriptome changes in the cortices of MIA-exposed offspring and those altered in the brains of children with ASD [@bib46]. Although MIA could cause a dynamic sequence of transcriptional changes in the fetal brain following acute exposure, no integrated picture of MIA-associated transcriptomic pathology exists that maps changes spanning from the initial acute response to MIA through birth. Here, we combined time-course transcriptomics with neuroanatomy to map changes in prenatal mouse cortical development following MIA induced by poly(I:C) injection at E12.5.
+
+# Results
+
+We used paired transcriptomic and neuroanatomical analyses to map changes in the fetal brain following MIA in a poly(I:C) mouse model ([Figure 1](#fig1), [Figure 1—figure supplement 1](#fig1s1), [Figure 1—figure supplement 2](#fig1s2) and [Figure 1—figure supplement 3](#fig1s3)). Induction of MIA via poly(I:C) injection at E12.5 produces relevant phenotypes in mice [@bib14; @bib70; @bib72] and the specific implementation of this model was recently validated in our hands to produce sufficient levels of MIA to mimic viral infection and cause aberrant behavioral outcomes in offspring [@bib25]. The dosage of 30 mg/ml poly(I:C) elicited substantial elevations in maternal serum IL-6 (on average 2200 pg/ml) 4 hr following injection ([Figure 1—figure supplement 1](#fig1s1)). Pregnant mice were injected with saline or poly(I:C) at E12.5, and dorsal telencephalon (E12.5 + 6 hr, E14.5, E17.5, and birth (P0)) was microdissected ([Figure 1a](#fig1)). RNA-seq datasets were generated from male and female embryos from 28 independent litters across control and MIA groups, typically with one to three embryos represented per independent litter ([Supplementary file 20](#supp20), [Supplementary file 5](#supp5), File source data 1). For control and MIA, 7 _vs._ 7 samples at E12.5, 13 _vs._ 13 samples at E14.5, 6 _vs._ 6 samples at E17.5, and 10 _vs._ 12 samples at P0, were compared in a differential expression (DE) analysis. For transcriptomic analysis, we used a strategy of first defining DE genes at each time-point using the general linear model (GLM) approach implemented in edgeR, followed by mapping DE signatures to systems-level expression patterns via module assignment using weighted gene co-expression network analysis (WGCNA).
+
+figure: Figure 1.
+:::
+![](elife-60100.rmd.media/fig1.jpg)
+![](elife-60100.rmd.media/Fig1a)
+
+
+## Differential expression across embryonic brain development following maternal immune activation via poly(I:C) injection at E12.5.
+
+(**a**) Schematic representation of MIA model and study design. E: embryonic day, P: postnatal day, IHC: immunohistochemistry, WB: western blot. Poly(I:C) was injected at E12.5. Samples for RNA-seq were collected at E12.5 + 6 hr, E14.5, E17.5, and at birth (P0). IHC and WB analysis were conducted on a separate animal cohort at E17.5 and P0. (**b, c**) Principal component analysis (PCA) of RNA-seq data indicates that developmental age accounts for the majority of variance across samples. Age (DPC) or sex are represented as colored symbols in (**b**) and (**c**) respectively, and poly(I:C) or saline treatment indicated by circles or triangles, respectively (**d**) Heatmap representing relative gene expression changes between control and MIA samples across time-points. Hierarchical clustering by relative fold changes shows stage-specific differential expression signatures (DE genes shown have FDR &lt; 0.05 and log~2~ fold change (log~2~FC)>1 or &lt; −1). (**e**) Volcano plots of DE effect size and significance show stage-specific differences in number of DE genes and DE effect size, with the strongest dysregulation at E17.5. Colors represent directionality and statistical significance. (**f**) Numbers of upregulated and downregulated DE genes at FDR &lt; 0.05 and p&lt;0.05 thresholds again show varying DE genes numbers with a peak of dysregulated genes at E17.5. (**g**) Intersection of stage-specific DE genes with the 82 SFARI autism-associated mouse gene orthologs that were expressed at measurable levels in the RNA-seq data. E17.5 DE genes (FDR &lt; 0.05) were enriched for SFARI genes (p=3.9e-04, hypergeometric test). Concentric circles represent developmental time-points. Light red, upregulated DE genes (p&lt;0.05); dark red, upregulated DE genes (FDR &lt; 0.05); light blue, downregulated DE genes (p&lt;0.05); dark blue, downregulated DE genes (FDR &lt; 0.05).
+:::
+{#fig1}
+
+figure: Figure 1—figure supplement 1.
+:::
+![](elife-60100.rmd.media/fig1-figsupp1.jpg)
+
+## Validation of responsiveness to poly(I:C) based on dam serum IL-6 levels.
+
+Injection of poly(I:C) at E12.5 consistently elevates serum IL-6 in dams 4 hr following injection, compared with little response in dams injected with saline.
+:::
+{#fig1s1}
+
+figure: Figure 1—figure supplement 2.
+:::
+![](elife-60100.rmd.media/fig1-figsupp2.jpg)
+
+## Males and females show largely concordant DE signatures following MIA.
+
+(**a**) Numbers of upregulated and downregulated DE genes with p &lt; 0.05 and FDR &lt; 0.05, in the DE analysis lacking the sex covariate, are similar to the DE model including the sex covariate ([Figure 2c](#fig2)). (**b**) Numbers of upregulated and downregulated DE genes with p &lt; 0.05 and FDR &lt; 0.05, in a DE analysis testing for differential expression between sexes identifies few DE genes, suggesting limited sex dimorphism between samples. MIA conditions and sequencing lanes were set as covariates for the DE model. (**c, d**) Numbers of upregulated and downregulated DE genes with p &lt; 0.05 and FDR &lt; 0.05, for the DE analysis performed on (**c**) males and (**b**) females demonstrate robust DE at E17.5 in both sexes.
+:::
+{#fig1s2}
+
+figure: Figure 1—figure supplement 3.
+:::
+![](elife-60100.rmd.media/fig1-figsupp3.jpg)
+
+## Sex-stratified comparison of DE genes and effect sizes suggest increased DE effect sizes in females.
+
+(**a**) Correlation of the relative effect sizes (log~2~FC) for genes passing FDR &lt; 0.05 identifies high degree of concordance between MIA responses between sexes. Genes passing FDR threshold in either or both sexes are color coded. (**b**) Venn diagrams illustrating overlap between DE gene sets passing FDR &lt; 0.05 at E14.5 and E17.5, in DE models containing samples from both sexes, males, or females. The DE model comprising individuals of both sexes includes most of the DE signature of each sex. Female DE analysis identifies limited and unique DE signature. (**c**) Examples of E14.5 and E17.5 genes significant in females but not males. At E14.5 genes were selected to pass FDR &lt; 0.05 and logFC > 0.5 or logFC &lt; −0.5 in females, but not logFC > 0.5 or logFC &lt; −0.5 in males. The gene-set selection process was analogous for E17.5 with the addition of FDR &lt; 0.05 condition in males. After gene set filtering, twelve genes with the lowest FDR in females were plotted.
+:::
+{#fig1s3}
+
+Principal component analysis (PCA) of MIA and control RNA-seq samples showed developmental age accounts for the majority of variance across samples, with some additional separation between MIA and control groups ([Figure 1b–c](#fig1)). We performed stage-specific differential expression analysis for male and female samples and for both sexes with sex as a covariate. For each time-point, DE genes were defined using a stringent false discovery rate (FDR) &lt; 0.05 threshold and a more inclusive p &lt; 0.05 threshold ([Figure 1d,e](#fig1), [Supplementary file 1](#supp1)–[!number(5)](#supp5)). Sex-stratified analysis indicated generally concordant DE differences between male and female samples following MIA, although DE effect sizes appeared stronger in females at E14.5 and E17.5, leading to a larger number of DE genes identified independently in females compared to males ([Figure 1—figure supplement 2](#fig1s2), [Supplementary files 6](#supp6)–[!number(15)](#supp15)). Overall, sex-stratified differences in DE genes were generally subtle, as demonstrated by high DE correlation and shared DE gene sets between sexes, with consistent findings across sexes among key DE genes ([Figure 1—figure supplement 3](#fig1s3)). Samples from both male and female offspring were used for overall DE analysis models, with sex included as a covariate.
+
+For the DE gene set passing the stringent FDR &lt; 0.05 threshold, there were varying numbers of DE genes across time-points ([Figure 1d](#fig1)). The strongest transcriptional signature was observed at E17.5 (2621 up and 3058 down), suggesting dramatic impact of MIA on cortical development at this time-point. P0 represented the subtlest transcriptomic signature, with no genes passing the stringent FDR &lt; 0.05 threshold, and with the p &lt; 0.05 DE genes showing a strong upregulation bias. We tested for overlap between DE RNA-seq genes and high confidence autism-associated genes in the Simons Foundation Autism Research Initiative (SFARI) gene database [@bib8]. The 82 mouse orthologs of SFARI ASD genes that were expressed at measurable levels were significantly enriched among E17.5 DE genes, with 25 upregulated and 19 downregulated DE genes at FDR &lt; 0.05 (p=3.9e-04, hypergeometric test), and 28 upregulated and 28 downregulated DE genes at p &lt; 0.05 (p = 2.8e-06, hypergeometric test) ([Figure 1e](#fig1), [Supplementary files 16](#supp16)–[!number(17)](#supp17)). This enrichment during peak transcriptomic dysregulation suggests involvement of ASD-relevant pathways in MIA etiology here and demonstrates general NDD relevance of our model. Detailed results of DE analysis are reported in [Supplementary files 1](#supp1)–[!number(15)](#supp15) and can be visualized using our interactive online browser.
+
+We next sought to capture MIA-induced gene regulatory changes at the systems and network level across embryonic cortex development using WGCNA ([@bib39]; [@bib90]; [Figure 2](#fig2), [Figure 2—figure supplement 1](#fig2s1), [Figure 2—figure supplement 2](#fig2s2)). In this approach, genes with correlated expression patterns are assigned into modules, enabling identification of gene sets with shared expression and function in neurodevelopment. WGCNA co-expression modules were arbitrarily named after colors, with Grey reserved for genes with no strongly correlated expression patterns ([Figure 2a](#fig2)). Our initial analysis identified 10 modules ([Figure 2—figure supplement 1a](#fig2s1)), of which correlated modules were combined to produce the final set of five modules and the unassigned Grey set. Modules were tested for association with sample age, MIA versus saline condition, and sex ([Figure 2b](#fig2)). The modules captured dynamic trajectories of neurodevelopmental gene expression ([Figure 2c](#fig2)). The Blue and Turquoise modules represented genes that increased or decreased in expression respectively, during neurodevelopment (Blue: p=9e-34; Turquoise: p=1e-29, [Figure 2—figure supplement 1b](#fig2s1)). The other modules showed more complex patterns of expression. Each WGCNA module included DE genes, with differences in what time-point had the most extensive DE, indicating module-specific timing of perturbation associated with MIA ([Figure 2—figure supplement 1c](#fig2s1)). DE genes were enriched for module-specific GO terms, with GO enrichment findings similar using all module genes and using an alternative rank-based gene set enrichment that is not dependent on FDR or p-value ([@bib56]; [@bib75]; [Figure 2d](#fig2), [Supplementary file 18](#supp18); [Figure 2—figure supplement 2](#fig2s2), [Supplementary file 19](#supp19)).
+
+figure: Figure 2.
+:::
+![](elife-60100.rmd.media/fig2.jpg)
+
+## Weighted gene co-expression network analysis (WGCNA) reveals discrete gene networks perturbed by MIA across embryonic cortical neurodevelopment.
+
+(**a**) WGCNA cluster dendrogram of time series samples identifies genes that were assigned into co-expression modules. Based on similarities in module gene expression, six of the original 10 modules were grouped into two larger modules, BrRePi: Brown, Red and Pink; YeMaBl: Yellow, Magenta and Black. (**b**) Heatmap of correlation between gene expression modules and experimental traits; age, condition (saline vs poly(I:C)), and sex. Blue and Turquoise modules are strongly associated with age; Green and Grey modules are significantly associated with MIA condition. Numerical values represent signed Pearson’s correlation coefficients, with Student asymptotic p values in brackets. Green represents negative and red represents positive correlation. Color intensity signifies the strength of the correlation. (**c**) Module eigengene expression for MIA and control groups plotted by time-point illustrates expression trajectories across developmental stages, capturing module- and stage-specific differences between MIA and control groups. (**d**) Heatmap of enrichment of DE genes for representative gene ontology biological processes (GO BP) by developmental time-point shows stage- and module-specific transcriptional pathology. Y-axis rows show enrichment for GO BP terms among module-specific DE genes (FDR &lt; 0.05). Heatmap color scale represents relative fold enrichment for the GO terms among DE genes. P0 not shown due to insufficient DE gene numbers and absence of GO BP terms passing enrichment criteria.
+:::
+{#fig2}
+
+figure: Figure 2—figure supplement 1.
+:::
+![](elife-60100.rmd.media/fig2-figsupp1.jpg)
+
+## Summary of WGCNA module eigengene expression, association with experimental variables, and overlap with DE genes.
+
+(**a**) Eigengene trajectories across neurodevelopment of the ten original co-expression modules. (**b**) DE (p &lt; 0.05) gene set enrichment analysis in WGCNA modules across the developmental time-points of the study. Values representing the number of upregulated and downregulated genes are plotted above and below 0, respectively. Asterisks indicate statistically significant enrichment of DE genes (p &lt; 0.05) in a module (p &lt; 0.05; hypergeometric test).
+:::
+{#fig2s1}
+
+figure: Figure 2—figure supplement 2.
+:::
+![](elife-60100.rmd.media/fig2-figsupp2.jpg)
+
+## Stage-specific heatmaps of GO BP enrichment analysis of upregulated and downregulated differentially expressed genes in WGCNA modules.
+
+(**a**) E12.5 upregulated DE genes (FDR &lt; 0.05). (**b**) E12.5 downregulated DE genes (FDR &lt; 0.05). (**c**) E14.5 upregulated DE genes (FDR &lt; 0.05). (**d**) E14.5 downregulated DE genes (FDR &lt; 0.05). (**e**) E17.5 upregulated DE genes (FDR &lt; 0.05). (**f**) E17.5 downregulated DE genes (FDR &lt; 0.05). (**g**) P0 upregulated DE genes (FDR &lt; 0.05). (**h**) P0 downregulated DE genes (FDR &lt; 0.05). Only modules with more than five DE genes (FDR &lt; 0.05) are shown in the heatmaps.
+:::
+{#fig2s2}
+
+The WGCNA-resolved modules enabled mapping of DE signatures to neurodevelopmental processes that were acutely induced by MIA ([Figure 3](#fig3), [Figure 3—figure supplement 1](#fig3s1)). There was significant association between genes in Grey (p = 0.007) and Green (p = 0.03) modules and MIA treatment, and marginal significance with MIA for the YeMaBl (p = 0.05) module ([Figure 2—figure supplement 1b](#fig2s1)). The acute, initiating signaling pathways, found 6 hr after poly(I:C) injection captured by the Green module and by a subset of genes within the Grey module, show a strong signature of upregulated DE genes from E12.5 to E14.5 ([Figure 3a](#fig3)). Analysis of the GO BP enrichment of upregulated DE genes in these modules identified activation of immune-related pathways, including defense response to virus, as well as angiogenesis and Vascular Endothelial Growth Factor A (VEGFA) signaling ([Figures 2c](#fig2) and [3b](#fig3), [Figure 2—figure supplement 2a,c](#fig2s2)). We tested for protein-protein association networks among the acute E12.5 DE (FDR &lt; 0.05) genes using STRING [@bib77], and found significantly more interactions than expected by chance (observed edges = 161, expected edges = 46, enrichment = 3.5, STRING p &lt; 1.0e-16) ([Figure 3c](#fig3)). This intersecting protein network was associated with metabolism, hypoxia, and stress ([Figure 3b](#fig3)). The network includes a highly interacting core gene set with hub nodes, such as _Vegfa_, that have many spokes and may be signaling factors that direct the MIA response ([Figure 3b,c](#fig3)). Developmental expression profiles for DE genes that were associated with this interaction network, are shown in [Figure 3d](#fig3), and stratified by sex in [Figure 3—figure supplement 1a](#fig3s1). These signatures capture a complex but coherent transcriptional response involving hypoxia, immune, metabolic, and angiogenesis pathways that are strongly and transiently induced in fetal brain within 6 hr following mid-gestational MIA.
+
+figure: Figure 3.
+:::
+![](elife-60100.rmd.media/fig3.jpg)
+
+## Green and Grey co-expression modules capture acute transcriptional response at 6 hr and 2 days following MIA exposure.
+
+(**a**) Violin plots visualize distribution of log~2~ fold changes of Green and Grey module gene expression between control and MIA animals. At E12.5, an initial set of genes in the Green and Grey modules are induced and DE in MIA samples. By E14.5, generalized module expression exhibits induction in the MIA samples, with particularly strong change for the Green module, where nearly all genes are upregulated. Genes with expression trajectories shown in (**d**) are labeled. (**b**) Gene set enrichment analysis of GO BP terms significantly enriched among DE genes (FDR &lt; 0.05) at E12.5 and E14.5 in Green and Grey modules showing upregulation of angiogenesis and immune pathways. Representative enriched GO BP terms with p &lt; 0.05 colored by enrichment; gray represents enrichment p > 0.05 (Fisher’s exact test). (**c**) STRING protein–protein interaction network of E12.5 DE genes (FDR &lt; 0.05) colored by annotation to GO BP terms. There were significantly more interactions than expected by chance among these genes. (**d**) RPKM expression plots of genes that are associated with this network show acute DE at E12.5. Stars represent FDR &lt; 0.05.
+:::
+{#fig3}
+
+figure: Figure 3—figure supplement 1.
+:::
+![](elife-60100.rmd.media/fig3-figsupp1.jpg)
+
+## Sex-stratified RPKM gene trajectories of genes presented in the manuscript showing concordant effects between males and females.
+
+(**a**) Vegfa, Flt1, Pdk1, Ldha, Bnip3, Il20rb. (**b**) Mki67, Eomes, Pax6, Sox9, Tbr1, Bcl11b, Satb2, Cux1. (**c**) Gfap, Dlx2, Olig2, Gad1.
+:::
+{#fig3s1}
+
+The most pervasive WGCNA-resolved DE signatures following MIA impacted a large proportion of genes in the Blue and Turquoise modules by E14.5 and peaked at E17.5 ([Figure 1c](#fig1)). GO terms related to proliferation and cell cycle were enriched in the Blue module among downregulated DE genes, and terms related to neuronal differentiation and synapses were enriched in the Turquoise module among upregulated DE genes ([Figure 2c](#fig2)). Considering the changes in proliferative and lamination markers associated with Blue and Turquoise genes, we sought to validate such changes at the protein level in independent samples ([Figure 4](#fig4), [Figure 4—figure supplement 1](#fig4s1)). Four out of five DE genes tested validated with concordant changes at the protein level as determined by western blot (WB) analysis at E17.5, showing either statistical significance or trends in the same direction as observed in our transcriptomic analysis ([Figure 4a–b](#fig4), [Figure 4—figure supplement 1](#fig4s1)). The DE signatures associated with Blue and Turquoise modules were evidenced by separation between MIA and saline samples in PCA plots at E14.5 and E17.5, with E17.5 MIA samples clustered closer to the P0 samples than saline age-matched counterparts ([Figure 1b](#fig1)). To test for MIA-associated perturbation to temporal full transcriptome expression patterns, we generated a linear regression model using RNA-seq data principal components 1–5 and RNA-seq covariates to model age in saline samples. We then used this model to predict age in MIA samples ([Figure 4c](#fig4)). E17.5 MIA samples exhibited older predicted age values relative to E17.5 saline controls (p = 4.5e-06, T-test), and E14.5 MIA samples showed a similar trend (p = 0.07, T-test). These findings suggest that mid-gestational MIA at E12.5 perturbs the timing of major downstream neurodevelopmental processes at E14.5 and E17.5 in embryonic cerebral cortex.
+
+figure: Figure 4.
+:::
+![](elife-60100.rmd.media/fig4.jpg)
+
+## Altered cortical proliferation and lamination dynamics in fetal offspring five days after induction of MIA.
+
+(**a**) RPKM trajectories of proliferative and cortical lamination markers that were DE and validated at protein level. (**b**) Quantified protein levels from WB analysis validated DE changes at E17.5. Protein expression data are relative to GAPDH expression (n = 4 control, n = 5 MIA; PAX6 p=0.039, TBR1 p=0.615, CTIP2 p=0.0090, SATB2 p=0.1160, CUX1 p=0.2112; two tailed Student’s t-test). Individual blots are in supplementary data ([Figure 4—figure supplement 1a–c,h–i](#fig4s1)). (**c**) Temporal modeling of the RNA-seq data suggests acceleration of the neurodevelopmental program in MIA animals at E17.5 (p =4.5e-06, Student’s t-test) and similar trend at E14.5 (p = 0.07, Student’s t-test). Actual age (X-axis) vs predicted age (Y-axis) calculated by the linear model. Control samples were used for training the model. Lines connect average values, points depict individual samples and are jittered along the X-axis. (**d**) GO BP categories highlighting module-specific enrichment of E17.5 DE genes in the proliferation (Blue) and neuronal (Turquoise) WGCNA modules. (**e**) Representative images of coronal brain sections from E17.5 saline and MIA animals show reduced progenitor populations (neural stem cells: PAX6, SOX9, SOX2, intermediate progenitors: TBR2, and general proliferative markers: Ki67, PH3) and reduced active proliferation (Ki67:PH3 ratio). Staining for all cell populations is qualitatively decreased in the cortices from MIA offspring. Yellow box indicates the region of the neocortex utilized for Ki67 and Ph3 cell counts, and white boxes indicate regions of the VZ and upper layers of the nCtx utilized for SOX9 and SOX2 cell counts reported in (f-h). Scale bars = 100 µm, (labels: nCtx: neocortex, VZ: ventricular zone, SVZ: sub-ventricular zone, dDG: developing dentate gyrus, GE: ganglionic eminence). (**f**) SOX9 positive cell density in the VZ as well as in the upper layers of the nCtx shows reduced and ectopic SOX9+ cells in the MIA group (n = 3 per condition, SOX9 VZ \*p=0.0198, SOX9 nCtx \*\*p=0.0058, two tailed Student’s t-test) (**g**) SOX2 positive cell density counts show a specific reduction in the VZ zone in the MIA group (n = 5 control group, n = 7 MIA group, SOX2 VZ \*\*p=0.0006). (**h**) Ki67 and PH3 cell density quantification along the entire length of the VZ confirms this reduction in proliferative cells in MIA samples (Ki67 n = 5 control group, n = 4 MIA group, Ki67 \*p=0.0198; PH3 n = 8 control group, n = 6 MIA group, PH3 \*\*p=0.0003, two tailed Student’s t-test) as well as a reduction in the Ki67/PH3 ratio (n = 5 control group, n = 3 MIA group, \*p=0.0005 Chi-Squared).
+:::
+{#fig4}
+
+figure: Figure 4—figure supplement 1.
+:::
+![](elife-60100.rmd.media/fig4-figsupp1.jpg)
+
+## Raw western blot and RNA-seq supporting data to proliferation, lamination, and cell-specificity analyses.
+
+(**a**) Western blot demonstrates reduced PAX6 protein level in tissue extracts from poly(I:C) treated animals at E17.5, (**b**) but not at P0. (**c**) Quantified PAX6 protein levels from western blot analysis at P0 (n = 6 for each control and poly(I:C) groups; p=0.766, two tailed Student’s t-test). (**d–g**) RNA-seq RPKM expression trajectories throughout development of (**d**) Ki67, (**e**) Tbr2, (**f**) Pax6, and (**g**) Sox9. (**h**) Individual western blots detecting TBR1, CTIP2, SATB2 and CUX1 from whole forebrain extracts at E17.5 and (**i**) CTIP2 at P0. (**j**) E17.5 RNA-seq RPKM expression levels of Pax6, Neurog2, Notch1, and (**k**) Gfap and Olig2.
+:::
+{#fig4s1}
+
+To characterize the neuroanatomical specificity of Blue and Turquoise dysregulation transcriptional signatures ([Figure 4d](#fig4)), we performed a static immunofluorescent labeling comparison of late neurogenesis, cortical lamination and cell specification at E17.5 in an independent MIA cohort. E17.5 represents the end of the peak of neurogenesis during cortical development, before the neuronal-glial transition that occurs around E18.5. At this stage, it is expected that progenitor markers, such as PAX6, SOX9 and more specifically SOX2, will identify a small population of progenitors that are maintained and retain the ability to produce neurons, as well as subpopulations of proliferative cells commencing gliogenesis [@bib50]. PAX6+, SOX9+ and SOX2+ cell distribution patterns showed that progenitors localized correctly around the cortical ventricular zone in coronal brain sections; all analyzed cell populations were significantly reduced in MIA brains compared to controls ([Figure 4e–f](#fig4)). The PAX6 finding in particular is consistent with our WB analysis at E17.5 (PAX6, p=0.039, two tailed Student’s t-test) ([Figure 4b](#fig4), [Figure 4—figure supplement 1a](#fig4s1)), with protein levels that either resolved or were too subtle to be distinguishable by birth (p=0.766, two tailed Student’s t-test) ([Figure 4a](#fig4), [Figure 4—figure supplement 1b–c,i](#fig4s1)). MIA brains showed a decrease in SOX9+ cells in the ventricular zone (VZ), which is expressed in progenitors [@bib68]. We also observed increased SOX9+ cells above the VZ in the neocortex, which can remain expressed in a subset of cells, including oligodendrocyte progenitors and maturing astrocytes [@bib37; @bib76] (SOX9 VZ, p=0.0198; nCtx, p=0.0058, two tailed Student’s t-test). Reduced expression of SOX2, a progenitor marker that is restricted to the VZ, was also observed in MIA brains (SOX2 VZ, p=0.0006 two tailed Student’s t-test) ([Figure 4f](#fig4)). Overall, these data are consistent with the transcriptomic downregulation signature of proliferating cells in MIA brains.
+
+To determine if the decrease in progenitor markers might coincide with decreased proliferation, we next labeled cells undergoing proliferation, using the marker KI67 (any stage of cell proliferation) and the Phospho Histone 3 (PH3) marker, which labels a subset of cycling cells in mitosis (M) phase [@bib30; @bib84]. We also examined the post-mitotic intermediate progenitor marker TBR2. Analysis of KI67+ and PH3+ cells showed reduced numbers of labeled cells along with a qualitative reduction in numbers and ectopic positioning of postmitotic intermediate progenitor cells in the MIA group (TBR2+). Reduction in Ki67+ cells was observed in several regions of the developing cortex, including zones defined as S1 and S1DZ [@bib14; @bib70], as well as the ganglionic eminences ([Figure 4e](#fig4)). Quantification of Ki67+ cells and PH3+ cells in the neocortex confirmed the MIA-induced reduction in progenitor and mitotic populations at E17.5 (Ki67, p=0.0198; PH3, p=0.0003, two tailed Student’s t-test). The ratio of PH3+ (mitosis) cells to Ki67+ (all stages of cell division) cells was then used to determine whether cell cycle kinetics or the number of actively dividing cells in M phase was different in the MIA-exposed group. Ki67/PH3 ratios indicated a reduced proportion of progenitor cells in M phase in MIA brains at this specific time-point (p=0.0005 Chi-squared) ([Figure 4f](#fig4)). These results provide evidence that the reduced proliferation signatures following MIA that were observed in the transcriptomic profiles are associated with changes at the protein level. Moreover, within the reduced progenitor cell populations at E17.5, the number of cells in the mitosis stage of the cell cycle are decreased to a greater extent.
+
+MIA has been associated with altered cortical thickness and reported to cause cortical dysplasia in young adult MIA offspring [@bib72; @bib73; @bib82], with stereotypic dysplasia impacting lamination localized to the somatosensory cortex reported in one MIA model [@bib14; @bib70]. A number of cortical layer markers were DE at E17.5 in RNA, with validated changes at the protein level ([Figure 4a–b](#fig4), [Figure 3—figure supplement 1b](#fig3s1)). To examine cortical lamination, distribution of cortical layer-specific markers was analyzed via IHC in the same samples as above ([Figure 5](#fig5), [Figure 4—figure supplement figure 1 h-i](#fig4s1)).
+
+figure: Figure 5.
+:::
+![](elife-60100.rmd.media/fig5.jpg)
+
+## MIA impacts cortical lamination during development.
+
+(**a**) Coronal fetal brain sections from E17.5 saline (control) and MIA offspring show altered lamination pattern. Immunostaining using antibodies to identify deep cortical lamination layers using CTIP2 (green), and TBR1 (red) markers as well as markers of postmitotic neurons, SATB2 and CUX1, in more superficial cortical layers in brains derived from saline (control) or MIA injected dams. Representative images are shown. CTIP2/TBR1 overlap, represented by yellow color, was generally present in control brains, compared to fully laminated deep layers in MIA brains (no overlap illustrated by adjacent green and red rectangles). Boxes indicate magnified areas used for quantification and CTIP2/TBR1 overlap analyses. Scale bars = 100 µm. (**b**) TBR1/CTIP2 lamination overlap occurrence is present in all control brains but absent in the majority of MIA samples at E17.5. Brains from three MIA litters and two control litters were co-stained with TBR1 and CTIP2 cortical markers (as shown in a-b) and analyzed for lamination overlap occurrence (n = 4 control, n = 6 MIA). While all control brains showed lamination overlap between TBR1/CTIP2 layers, absence of TBR1/CTIP2 lamination overlap was observed in four out of six analyzed MIA brains. (**c**) Representative images of SATB2 and TBR1 staining at higher resolution show a change in cell morphology consistent with a difference in migration between MIA and control groups at E17.5. (**d**) Schematic representation illustrates the oval-radially migrating cell body shapes in control brains and the more rounded cell body shape in the MIA brains typical of static cells after migration. (**e**) MIA-induced reduction in TBR1+, CTIP2+, but not in SATB2+ cell counts (n = 4–5 brains per condition, TBR1 p=0.0138; CTIP2 p=0.0119; SATB2 p=0.306). (**f**) Significant decrease in CTIP2 and increase in SATB2 thickness indicates relative expansion of more superficial layers in MIA brains at E17.5 (Layer-specific thickness analysis: n = 4–8 per condition, TBR1 p=0.081; CTIP2 p=0.024; SATB2 p=0.039; CUX1 p=0.430, two tailed Student’s t-test). (**g**) Representative caudal and rostral coronal sections of E17.5 control and poly(I:C) brains stained with DAPI show no obvious cortical dysplasia or gross anatomy alterations. Yellow shading represents neocortical areas considered for thickness measurements. nCtx: neocortex, Th: thalamus, St: striatum, HC: hippocampus, Cp: caudate-putamen. (**h**) Quantification of cortical thickness measured at 30% and 70% distance from the dorsal midline and cortical hemispheric circumference indicates no differences in overall thickness of these neocortical regions (n = 5 control, n = 8 poly(I:C); caudal 30% p=0.5252; caudal 70% p=0.2481; rostral 30% p=0.4459; rostral 70% p=0.4583, two tailed Student’s t-test).
+:::
+{#fig5}
+
+Examination of the distribution of the lamination markers TBR1 (layer 6), CTIP2 (layer five and a subset of cells in layer 6), SATB2 (layers 2–4, and a subset of cells in layer 5), and CUX1 (layers 2 and 3), revealed MIA-induced cortical layer-specific alterations in lamination, thickness, and cell density at E17.5 ([Figure 5a–b,e–f](#fig5)). Overall, MIA brains appeared to be at a more mature stage of lamination at E17.5, showing a full separation of cortical deep layers more typical of later ages and in contrast to the partial layer overlap found in control offspring at E17.5 ([Figure 5a–b](#fig5)). Similarly, SATB2 and TBR1 co-staining suggested differences in lamination and migration state between the two groups. Oval cell body shapes were observed, which resembled radially migrating cells [@bib15] were observed in both SATB2 and TBR1 cells in control tissue, whereas these cells showed a more rounded/post-migratory cell body shape in the MIA brains ([Figure 5c–d](#fig5)). The number of TBR1+ and CTIP2+ cells, but not SATB2+ cells, were also significantly reduced in the neocortex from MIA offspring (TBR1+ cells, p=0.0138; CTIP2+ cells, p=0.0119; SATB2+ cells, p=0.306, two tailed Student t-test) ([Figure 5e](#fig5)). The thickness of these layers and also a more external layer represented by CUX1, were measured by comparing the radial spread of stained cells within the neocortex. We found a significant reduction in CTIP2 layer thickness and a similar trend in TBR1 layer thickness in the MIA brains. In contrast, SATB2 showed an MIA-induced significant increase in layer thickness with no change in the more external layer represented by CUX1 (TBR1 thickness, p=0.081; CTIP2 thickness, 0.024; SATB2 thickness, p=0.039; CUX1, p=0.430, two tailed Student’s t-test). ([Figure 5f](#fig5)). These findings are consistent with individual trajectories of DE genes and WB analyses ([Figure 4a–b](#fig4), [Figure 4—figure supplement 1h](#fig4s1)). Finally, to assess cortical gross anatomy, we looked for MIA-associated dysplasic alterations across the brain [@bib14] and measured the thickness of the developing somatosensory cortex at two anteroposterior regions at E17.5. In contrast to previous reports [@bib14], we did not find obvious cortical dysplasia or gross alterations in brain anatomy in the analyzed rostral and caudal regions, including somatosensory cortex and S1DZ ([Figure 5e–f](#fig5)).
+
+To investigate other cell populations that may be impacted by MIA during development, we analyzed astrocytes, oligodendrocytes and GABAergic interneuron cell populations ([Figure 6](#fig6), [Figure 4—figure supplement 1k](#fig4s1)). Concordant with RNA-seq results, the number of cells expressing GFAP, a protein found in radial glia and a subset of astrocytes [@bib23], was increased in MIA offspring, mapping specifically to cells that seemed to emerge ventral from the neocortical VZ ([Figure 6a–b,q](#fig6), [Figure 4—figure supplement 1k](#fig4s1)). Since astrocytes also express SOX9 [@bib37; @bib76] and radial glia also express PAX6, which is decreased by MIA, this finding is consistent with the possibility that the increased SOX9+ cells in the dorsal regions of the neocortex, described earlier, may be indicative of early differentiated astrocytes ([Figure 4f](#fig4)). OLIG2, which is expressed in oligodendrocyte progenitors and mature cells as well as transiently in astrocyte progenitors [@bib18], was also upregulated at E17.5 in the MIA group. OLIG2+ cells were increased in MIA brains compared to controls (n = 3 per group, p=0.0134, Student’s t-test) ([Figure 6c–d,k](#fig6), [Figure 4—figure supplement 1k](#fig4s1)). PDGFRα, a marker of early developing oligodendrocytes, was also increased in MIA brains compared to controls (n = 7 per group, zone 1 p&lt;0.0001, zone 2 p=0.0063, zone 3 p=0.0125, Student’s t-test) ([Figure 6e–f,l](#fig6)). Thus, these experiments provide evidence that MIA leads to increased numbers of additional cell types (putative astrocytes and oligodendrocytes) that are typically born at later ages during corticogenesis, reinforcing findings of accelerated cell development that is supported by an increased representation of later-born cell types at E17.5 in brains exposed to MIA.
+
+figure: Figure 6.
+:::
+![](elife-60100.rmd.media/fig6.jpg)
+
+## MIA alters development of neuronal and glial cell types in fetal offspring at E17.5.
+
+(**a–j**) Coronal fetal brain sections from three independent E17.5 saline litters (n = 4 control) and four independent MIA litters (n = 6 MIA) were immunostained for cell-type markers. (**a,b**) Altered distribution and numbers of GFAP+ cells (radial glia and astrocytes) in MIA samples. (**c-j**) Reduced sub-population of interneurons and oligodendrocytes using OLIG2, PDGFRα, DLX2, and GAD67. (**k-p**) Quantification of the cell density in (**c-j**). Overall MIA-associated increase in OLIG2+ cells (**k**), with further specific increased PDGFRα+ cells representing oligodendrocytes (**l**), and no change in overall DLX2+ interneurons (**m,o**), but increased overall number of DLX2+/GAD67+ interneurons (**n,p**) are observed in MIA neocortex. Student’s t-test: OLIG2 p=0.0134; DLX2+/GAD67+ cells p=0.0004. Bin quantification analyses of PDGFRα+, DLX2+, and GAD67+ immunoreactive cells in zones 1–3 (Z1 to Z3) indicate that changes are not restricted to a particular zones of the neocortex. Arrows denote co-labeled cells. Scale bars in (a-h) = 100 µm and in (i-j) = 30 µm. Abbreviations: neocortex (nCtx); marginal zone (mz); ventricular zone (VZ). (**q**) RPKM trajectories of the cell identity markers tested in (**a-k**) across the developmental time-points of the study show parallel differences in mRNA expression of cell-type markers following MIA induction. _Gfap_ and _Olig2_ mRNA was significantly upregulated in MIA samples at E17.5. _Dlx2_ was significantly downregulated at E17.5, with no significant changes observed for _Gad1_ (encodes GAD67) or for _Pdgfra_ (not shown).
+:::
+{#fig6}
+
+Finally, we examined DLX2 and GAD67, markers of committed and maturing cortical interneurons. Although _Dlx2_ expression was downregulated in the MIA group from bulk tissue dissections at E17.5, the number of cells positive for DLX2 protein in the neocortex were comparable when assessed via IHC in the MIA and control groups (n = 3 per group, total DLX2 p=0.5494; by zones DLX2, zone 1 P=0.9848, zone 2 P=0.6903, zone 3 P=0.2714, Student’s t-test) ([Figure 6g–h and m,o](#fig6)). In contrast, GAD protein in this DLX2+ subpopulation, assessed by the pan-GABAergic marker GAD67+, was increased across the neocortex of MIA brains, and was not restricted to any specific zones of the neocortex (n = 3 per group, total DLX2+/GAD67 p=0.0004; by zones DLX2+/GAD67, zone 1 P=0.2277, zone 2 P=0.1352, zone 3 P=0.2862, Student’s t-test) ([Figure 6i–j and n,p](#fig6)). Since GAD67 expression increases in developing cortical interneurons, the decrease in _Dlx2_ transcript expression but no difference in cells expressing DLX2 protein could indicate increased interneuron maturation but no change in interneuron numbers at this age. While neuroanatomical characterization here was limited to E17.5 and interrogated a subset of genes and processes of interest, our IHC findings correlate with transcriptional profiles, providing validation of MIA-associated DE in developing cortex.
+
+# Discussion
+
+Studies leveraging MIA models in mice have demonstrated the role of maternal immune signaling as a risk factor for cellular, anatomical, and behavioral outcomes in offspring. Nonetheless, a systems-level perspective of the early neurodevelopmental trajectory of pathology associated with MIA has been lacking. Our results offer a time course resolved map of molecular targets aberrantly transcribed in developing cerebral cortex following MIA. MIA-associated transcriptional signatures were robust, changed greatly across the surveyed time- points, and revealed novel pathways and processes involved in pathology. Among MIA-associated DE up-regulated and down-regulated genes, there was strong enrichment for ASD-relevant loci, indicating the general translational relevance of our MIA model to ASD. Both male and female samples were examined, and we did not find evidence for strong sex-specific DE signatures or impacts on neuroanatomy. Elucidating the trajectory of transcriptional changes across embryonic cortical development following mid-gestational MIA represents a valuable step toward understanding the progression of MIA-induced pathology in the developing brain of offspring.
+
+Our results suggest two waves of transcriptional pathology following MIA. First, we found initial induction of immune, metabolic, and angiogenesis gene expression modules specific to MIA exposure and largely restricted to the days following MIA. There is overlap in the acute induction signatures identified here and acute changes reported in other mid-gestational MIA models, including those using a range of injection gestational ages and rat models of LPS [@bib13; @bib54; @bib52; @bib59; @bib64; @bib72; @bib87]. Previous studies linked maternal immune challenge, prenatal brain hypoxia, and impacts on proliferation [@bib74], neurogenesis, and cortical lamination [@bib13]. Thus, it is possible that the acute signatures identified here and mapped to the Green and YeMaBl modules as well as a subset of genes in the unassigned Grey module, capture a generalized response in fetal brain across mid-gestational MIA models. Notably, induction of hypoxia, cellular metabolism and neuroimmune transcriptional signatures, particularly captured here by the Green module, persist at reduced levels at least through P0, and may indicate lasting perturbation to these pathways. Significant association of the Grey unassigned module with the MIA phenotype was driven by a subset of genes that showed strong acute induction at E12.5 and E14.5. By altering WGCNA parameters, we could assign the Grey module genes to co-expression modules but those alterations increased splitting, resulting in a high number of modules and reduced module coherence without clarifying additional MIA-specific modules made up by the relevant Grey module MIA-associated genes. Thus, we opted for reduced splitting to capture major co-expression trends.
+
+Identifying the early biological processes triggered by MIA are of critical interest for understanding how MIA initiates pathology. Our analysis identified potential drivers of these induced signaling pathways, including targets of substantial interest such as _Vegfa,_ that link hypoxia, neurogenesis and cortical angiogenesis [@bib4; @bib78]. _Vegfa_ was upregulated in MIA-exposed animal at all time-points and was among the strongest DE genes at E12.5 and P0. _Vegfa_ is critical for cortical development promoting neurogenesis and neurite outgrowth, as well as angiogenesis [@bib9; @bib48; @bib66]. Upregulation of _Vegfa_ is found in several NDDs and psychiatric disorders, including SZ and depression, and was also reported in a different MIA mouse model [@bib5; @bib31; @bib33; @bib34; @bib36; @bib41; @bib45; @bib88]. Induction of angiogenesis in the developing cortex also independently causes a transition from proliferative state to neuronal maturation [@bib9; @bib35; @bib79]. Other genes of interest include _Pdk1_ (pyruvate dehydrogenase kinase 1), which regulates glucose metabolism [@bib58], _Ldha_ (lactate dehydrogenase A), which facilitates glycolysis and participates in brain angiogenesis [@bib43], _Bnip3_ (BCL2 interacting protein 3), which is involved in cell death and mitochondrial autophagy [@bib44], and _Il20rb_ (interleukin 20 receptor subunit beta), a receptor subunit for pro-inflammatory interleukins IL-19, IL-20 and IL-24 [@bib1]. The early perturbed pathways observable within hours of MIA induction may be critical initiating steps leading to the altered general timing of fetal brain development described here. Our findings expand understanding of the molecular basis of these MIA-induced initial perturbations and reveal potentially key drivers of these changes.
+
+The second component of the neurodevelopmental MIA signature defined here was perturbation to normal patterns of both proliferative and maturational neurodevelopmental modules that manifest several days after MIA induction. Initially, at six hours after MIA, there is a shift in expression of differentiation and neuronal maturation processes (e.g. synaptogenesis) to increased proliferative processes (e.g. positive regulation of cell cycle). This pattern parallels results described for the acute MIA response from other mouse and rat MIA models, where similar pathways were down- or up-regulated in fetal brain in the hours following MIA [@bib55; @bib60]. At this developmental stage, our data suggest that MIA induces an acute expenditure of the neocortical, and potentially other, progenitor pools, which in turn leads to an expedited maturation of cells that would normally be generated later during development. Specifically, by E17.5, multiple progenitor and cell cycle markers were significantly decreased in the MIA brains while concordantly, we observed an increase in maturational markers and laminar position that resembled a more developed cortex. Finally, astrocytes, oligodendrocytes, GABAergic interneurons and radially migrating excitatory neuron precursors were effected, suggesting an unbiased impact on progenitors of multiple brain cell types. Although these findings are indicative of overall decreased neurogenesis by E17.5, specific birth-dating and time-course experiments are needed to test whether progenitor cells exit the cell cycle differently and if overall neurogenesis is perturbed beyond the E17.5 time-point reported here. Nonetheless, our time course RNA-seq design revealed that the transcriptional changes following MIA can be separated into discrete biological and temporal expression modules that support altered proliferation and maturation of cell types following MIA.
+
+Our findings of disrupted cortical lamination following the acute MIA signature are consistent with, but not identical to previous studies showing cortical dysplasia associated with MIA-induced aberrant behavior in offspring [@bib14; @bib70]. In those studies, dysplasia resolved at later postnatal stages but defects in lamination persisted into adulthood. Although we did not find evidence of aberrant cortical patches in the somatosensory cortex, secondary motor cortex or S1 and S1DZ, as previously reported, our results do show altered cortical lamination at E17.5. Our findings suggest that perturbation to neuronal migration, potentially due to differences in an early exit of pyramidal neuron precursors from the cell cycle that led to cells further along in their radial migration/lamination, developmental progression, at least in part contribute to MIA-associated lamination differences identified at E17.5 here. Thus, results from multiple studies using MIA models to date are consistent in showing a detrimental impact of MIA on cortical patterning; however, we also acknowledge that our and other studies may have differential variables, including onset of MIA, dose, mouse background, and endpoint measurements, which will be important factors to assess in future studies. Finally, bulk tissue RNA-seq is limited in cell type-specific resolution and signatures could additionally be in part driven by cortex-adjacent structures, such as primordial hippocampus, that may have also been captured at the youngest age. Future work using single-cell approaches is needed to resolve the impacted cell types and compare transcriptional pathology following MIA.
+
+While significantly subtler in overall effects compared to earlier time-points, we also see evidence for altered neuronal transcription and lasting immune activation at P0. By P0, these signatures were reduced, which suggests a transient or attenuating effect on cortical patterning. It is also possible that biological variability in neonatal mice or technical variability impacted detection of gene expression changes in these P0 samples. Nonetheless, the subtle changes in gene expression at P0 are consistent with deficits in synapse formation that require changes in expression of immune molecules in neurons from newborn MIA offspring [@bib22].
+
+Consistent with links between NDDs and developmental timing, atypical neurodevelopmental gene expression networks have been reported in a cortical neurodevelopmental model using autism-patient-derived induced pluripotent stem cells [@bib9; @bib67]. The majority of the ASD-relevant genes that were DE following MIA ([Figure 1e](#fig1)) were associated with perturbation to the modules associated with neurodevelopmental processes. These ASD-relevant genes map to functional and biological pathways generally associated with ASD and NDDs, including gene regulation, neurogenesis, and synapse development, structure, and function. The broad pathway overlap and presence of up- and down-regulation among DE ASD-relevant genes supports their generalized relevance. These overlapping genes represent targets of interest for future studies investigating parallel mechanisms between genetic and MIA-associated NDD risk. Our findings suggest some aspects of the transition from neurogenesis to astrogenesis appear to occur at an earlier stage following MIA based on similar signatures of SOX9+ and GFAP+ cells reported in literature [@bib7], and increased OLIG2+ cells and more mature GAD67+ DLX2+ interneurons in the cortex following MIA. These findings are additionally consistent with recent reports using poly(I:C) MIA models that identified perturbed GABAergic interneuron development [@bib81], and maturation of GAD+ neuroblast after birth [@bib83]. Future work is needed to determine if and how MIA-associated dynamic transcriptional changes manifest postnatally and whether perturbation to embryonic development impacts cortical cytoarchitecture and function at later postnatal stages.
+
+Altogether, our analyses indicate that MIA drives acute and lasting transcriptional changes that impact specific cell populations during forebrain development, disrupting normal developmental timing and causing increased numbers of astrocytes, oligodendrocytes, and altered molecular properties of GABAergic interneurons. The timing of MIA during gestation is known to cause a range of phenotypes in offspring, and thus the findings here regarding mid-gestational MIA at E12.5 may not generalize to other models with different timing of MIA induction, especially for later gestational MIA after neurogenesis is largely complete. Further, the strong embryonic signatures we observe were generally consistent across sexes, raising the question of whether secondary insults or sex-specific protective effects contribute to some reports of sex differences in pathology following MIA [@bib29; @bib57; @bib72]. Nonetheless, the overlapping results between our study and published single time-point studies of the acute MIA fetal brain transcriptional response suggest some consistency across bacterial and viral mimics, and rat and mouse models. Our study substantially expands previous work, revealing new molecular pathways and providing a temporal map of MIA-induced changes across fetal neurodevelopment that will be relevant to understanding the pathology of, and informing future treatments for, NDDs.
+
+# Materials and methods
+
+table: Key resources table
+:::
+| Reagent type (species) or resource | Designation                  | Source or reference      | Identifiers  | Additional information                     |
+| ---------------------------------- | ---------------------------- | ------------------------ | ------------ | ------------------------------------------ |
+| Chemical compound, drug            | poly(I:C) dsRNA              | Sigma Aldrich            | P0913        | Lot # 016M1451V                            |
+| Antibody                           | Rabbit polyclonal anti PAX-6 | Covance                  | PRB-278P-100 | Dilution: (1:250) for IHC; (1:3000) for WB |
+| Antibody                           | Rabbit polyclonal anti-TBR1  | Abcam                    | ab31940      | Dilution: (1:500) for IHC; (1:2000) WB     |
+| Antibody                           | Rat monoclonal anti-CTIP2    | Abcam                    | ab18465      | Dilution (1:250) for IHC; (1:1000) for WB  |
+| Antibody                           | Rabbit polyclonal anti-CUX1  | Abclonal                 | A2213        | Dilution (1:200) for IHC; (1:1000) for WB  |
+| Antibody                           | Mouse monoclonal anti-SATB2  | Abcam                    | Ab51502      | Dilution (1:500) for IHC; (1:2000) for WB  |
+| Antibody                           | Rabbit monoclonal anti-KI67  | Cell Signaling           | 12202        | Dilution (1:500) for IHC                   |
+| Antibody                           | Goat polyclonal anti-SOX9    | R and D Systems          | AF3075       | Dilution (1:500) for IHC                   |
+| Antibody                           | Rabbit polyclonal anti-PH3   | Cell Signaling           | 9701         | Dilution (1:500) for IHC                   |
+| Antibody                           | Rat monoclonal anti-TBR2     | Thermo Fisher Scientific | 14-4875-82   | Dilution (1:500) for IHC                   |
+| Antibody                           | anti-DLX2                    | John Rubenstein Lab      | N/A          | Dilution (1:200) for IHC                   |
+| Antibody                           | Rabbit polyclonal anti-GFAP  | Agilent Dako             | Z0334        | Dilution (1:250) for IHC                   |
+| Antibody                           | Rabbit polyclonal anti-OLIG2 | Millipore Sigma          | AB9610       | Dilution (1:500) for IHC                   |
+:::
+{#keyresource}
+
+## Animal care and use
+
+All studies were conducted in compliance with NIH guidelines and approved protocols from the University of California Davis Animal Care and Use Committee. C57BL/6N females (Charles River, Kingston, NY), were bred in house and maintained on a 12:12 hr light dark cycle at 20 ± 1°C, food and water available ad libitum. Mice utilized in this study do harbor Segmented Filamentous Bacteria (SFB) [@bib24]. Males and females embryos were analyzed across experiments, sex was determined as previously described [@bib51].
+
+## Maternal immune activation
+
+Assessment of females baseline immunoreactivity before pregnancy and maternal immune activation were performed as previously described [@bib25]. Since female mice display a wide range of baseline immunoreactivity to poly(I:C) that dictates susceptibility and resilience of offspring from later pregnancies to MIA, virgin females in the lowest 25th percentile of immune responsiveness to poly(I:C) (IL-6 serum levels) were excluded from the study to reduce variability and ensure sufficient immune responsiveness of all included dams. E12.5 pregnancies were determined by visualizing vaginal seminal plug (noted as E0.5) and by body weight increase. IL-6 serum levels were measured at 2.5 hr post-injection. Temperature, weight, and sickness behavior were tracked as previously described [@bib25].
+
+## Tissue dissections for RNA-seq and immunoblotting
+
+Dissections of dorsal telencephalon/pallium or developing cortex were performed at E12.5 + 6 hr, E14.5, E17.5, and P0 from control (saline) and poly(I:C)-exposed MIA litters. At E12.5, due to the smaller embryo size, dissections were made via a diagonal cut that maximized collection of dorsal telencephalon, but could have also included some subpallium/ventral telencephalon and superficial tissues. For later time-points, dissection was of pallium/developing cortex. Potential variance in the individual dissections should be mitigated by the inclusion of multiple replicates across both groups. Dissections included both hemispheres from males and females, with exact numbers and sample details reported in [Supplementary file 20](#supp20). Independent litters were used for RNA-seq and immunoblotting.
+
+## RNA-seq
+
+Following tissue collection as described above, total RNA was isolated using Ambion RNAqueous total RNA Isolation Kit and assayed using Agilent RNA 6000 Nano Bioanalyzer kit/instrument. Stranded mRNA libraries were prepared using TruSeq Stranded mRNA kits. Eight to 12 samples per lane were pooled and sequenced on an Illumina HiSeq 4000 instrument using a single-end 50 bp protocol. Reads were aligned to mouse genome (mm9) using STAR (version 2.4.2a) [@bib19] and gene counts produced using featureCounts [@bib42] and mm9 knownGenes. Quality assayed using FastQC [@bib3] and RSeQC [@bib85], and samples that exhibited 3′ bias or poor exon distribution were discarded. Raw RNA-seq fastq files and a gene count matrix is available on GEO [GSE166376](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166376).
+
+## Immunoblotting
+
+Tissue dissections from male and female littermates from at least three litters per condition were performed as described above and collected in HBSS, immediately frozen on dry ice, and stored at −80°C until processed. Samples were lysed in 50 mM Tris HCl, pH 8, 140 nM NaCl, 1 mM EDTA, 10% glycerol, 0.5% NP40 and 0.25% Triton with protease inhibitor cocktail (Roche). After sonication, samples were spun down and the supernatant was used for a BCA Bradford assay using the Spectramax 190 plate reader to assess protein concentration using a standard curve. Twelve or 18 μg of protein were run on a 10 or 12% Tris acetate gel using the Mini-PROTEAN system (BioRad). Membranes were blocked in Odyssey blocking buffer (TBS; LiCor) and probed with the indicated primary antibodies overnight at 4°C. Resolved proteins were visualized in two channels using fluorescent secondary antibodies at 680 and 800 nm on an Odyssey Clx infrared imaging system (LiCor). Specific band intensities for all detected antibodies were quantified using the manufacturer’s software ImageSoft (LiCor) and normalized to GAPDH loading control. Antibodies used were anti-PAX6 (1:250; cat #PRB-278P-100; Covance, Princeton NJ.), anti-TBR1 (1:500; cat#ab31940; Abcam, Cambridge, MA), anti-CTIP2 (1:250; cat# ab18465; Abcam, Cambridge, MA), anti-CUX1 (1:200; cat#A2213; Abclonal, Woburn, MA) and anti-SATB2 (1:500; cat#ab51502; Abcam, Cambridge, MA).
+
+## Gross anatomy, immunohistochemistry, and image quantification analyses
+
+Histology was performed in triplicate sections in brains using male and female pups from at least two litters. Sections were selected to focus on the developing somatosensory cortex. Details on sample individual sample usage for each IHC experiment is detailed in [Supplementary files 21](#supp21) and [!number(22)](#supp22). Embryos used in IHC experiments came from independent litters versus RNA-seq and immunoblotting. Morphological parameters were measured using FIJI ImageJ (NIH), by an experimenter blinded to group and sex. Brain regions were identified based on anatomical landmarks as previously described [@bib28]. No data points were excluded. For IHC staining, fetal brains were dissected and fixed with 4% paraformaldehyde/PBS solution overnight at 4°C. Tissues were then equilibrated in approximately 15 mL of 30% sucrose/PBS solution until they sank to the bottom of a conical tube. Equilibrated brains were embedded in Optimum Cutting Temperature (OCT) compound (Tissue-Tek, Torrance, CA) and frozen on dry-ice. OCT-embedded brain blocks were cryo-sectioned on a coronal plane (30 µm). Immunostaining was performed in free-floating sections with agitation. Sections were washed five times in PBST (PBS with 0.05% Triton X-100, 5 min each) and antigen retrieval was performed using 1x Citrate buffer pH6.0 antigen retriever solution (cat# C9999; Millipore-Sigma, Burlington, MA), at 60°C for 1 hr. Sections were washed five times in PBST (5 min each), permeabilized in PBS containing 0.5% Triton for 20 min and blocked for 1 hr at room temperature in 5% milk/PBST. Primary antibodies were incubated overnight at 4°C with orbital agitation (40–50 rpm). All antibodies used for this study were validated and their specificity validated. The following primary antibodies were used: anti-PAX6 (1:250; cat #PRB-278P-100; Covance, Princeton NJ.), anti-KI67 (1:500; cat#12202; Cell Signaling, Danvers, MA), anti-SOX9 (1:500 cat# AF3075, R and D systems, Minneapolis, MN), anti-PH3 (1:500 cat# 9701, Cell Signaling, Danvers, MA), anti-TBR2 (1:500; cat#14-4875-82; Thermo Fisher Scientific, Waltham, MA.), anti-TBR1 (1:500; cat#ab31940; Abcam, Cambridge, MA), anti-CTIP2 (1:250; cat# ab18465; Abcam, Cambridge, MA), anti-CUX1 (1:200; cat#A2213; Abclonal, Woburn, MA.), anti-SATB2 (1:500; cat#ab51502; Abcam, Cambridge, MA.), anti-DLX2 (1:200; generous gift from John Rubenstein, UCSF), anti-GFAP (1:250, cat#Z0334; Agilent Dako, Santa Clara, CA), anti-OLIG2 (1:500, cat#AB9610, MilliporeSigma, Burlington, MA). After primary antibody incubation, free-floating sections were washed five times in PBST (5 min each). Species-specific fluorophores-conjugated IgG (1:1000; Invitrogen-Thermo Fisher Scientific, Waltham, MA) were used as secondary antibodies (45 min, RT). 40,6-Diamidino-2-phenylindole (DAPI) (1:10000; Millipore-Sigma, Burlington, MA) was used for nuclear staining (20 min, RT). For cell counting, boxes were drawn on specific areas of the neocortex for progenitor and mitosis markers; SOX2, SOX9, and PH3. This box was 300 × 300 pixels on an image of the neocortex obtained using a ×20 objective. To be consistent, the ventral aspect of the box was drawn along the VZ and one corner touched the medial aspect of the VZ. The same strategy was used to draw boxes from Ki67 images except the box was increased in size to 500 × 500 pixels to account for the additional Ki67+ cells seen in neocortical areas above the SVZ. SOX9 boxes were drawn along the dorsal border edge (600 pixels in width) of the neocortex and extended ventrally two thirds the length of the neocortex in order to avoid the VZ/SVZ region. For laminar zone counts, a box spanning 300 pixels was drawn along the VZ and the dorsal/ventral proportions were equally divided into three zones. These box sizes allowed for a sufficient number of cells to be counted from each tissue. Laminar thickness analyses were performed by measuring the spread of all positive cells within the cortical plate per individual marker. For all quantification analyses, one to three sections per brain utilizing the developing hippocampus as a landmark for positioning were used.
+
+## Bioinformatics analysis
+
+Bioinformatic analysis was performed using R programming language version 3.5.1 [@bib63] run in RStudio integrated development environment version 1.2.1269 [@bib80]. Plots were generated using ggplot2 R package version 3.1.0 [@bib86]. Heatmaps were generated using pheatmap R package 1.0.10 [@bib38]. The analysis scripts are available at: <https://github.com/NordNeurogenomicsLab/Publications/tree/master/Canales_eLife_2021>; [@bib11]; copy archived at [swh:1:rev:28836c8758908e130f1f6d8bfb3b6a112c6cbd1b](https://archive.softwareheritage.org/swh:1:dir:5f2ff57077946f69fd4fb99a2df240c5b5411a1e;origin=https://github.com/NordNeurogenomicsLab/Publications/;visit=swh:1:snp:afd3044f9dbd07b9cb7620b8ea08b8928c8fde6f;anchor=swh:1:rev:28836c8758908e130f1f6d8bfb3b6a112c6cbd1b/).
+
+## Differential expression analysis
+
+Raw count data for all samples were used as input along with sample information for differential expression analysis using edgeR [@bib65]. Genes with minimum log~2~reads per kilobase per million (RPKM) expression of −2 in at least two samples were included for analysis, resulting in a final set of 17,195 genes for differential testing. For time-point differential expression analysis genes with count per million (CPM) >0.1 in at least two samples were considered, resulting in E12.5, 16,396; E14.5, 16,658; E17.5, 16,229; P0, 16,613 genes in differential expression analyses. Principal component analysis indicated that the strongest driver of variance across samples was developmental age. Tagwise dispersion estimates were generated, and differential expression analysis was performed with edgeR using a generalized linear model, separately for each developmental time-point, including sex, sequencing run factor, and treatment as the variable for testing. Normalized expression levels were generated using the edgeR rpkm function. Normalized log~2~ RPKM values were used for plotting of summary heatmaps and of expression data for individual genes.
+
+## SFARI gene set enrichment analysis
+
+The autism risk gene-set was downloaded from <https://gene.sfari.org/> on 02-26-2019 and is included in this manuscript as [Supplementary file 17](#supp17). High confidence risk genes, annotated as ‘gene-score’ 1 and 2 were selected, and their orthologs were found using getLDS function from the biomaRt R package [@bib21; @bib20]. Overlap of up- and downregulated DE genes with SFARI ortholog genes was calculated and plotted using a custom R script. Statistical significance of overlap was tested with hypergeometric test using the following R script: sum(dhyper(t:b, a, n - a, b)):
+
+-   _t_ = number of overlapping DE genes with SFARI gene orthologs with gene_score 1 or 2
+-   _b_ = number of SFARI gene orthologs with gene_score 1 or 2
+-   _a_ = number of DE genes at a developmental stage
+-   _n_ = number of genes at a developmental stage _sum_ returns the sum of all the values present in its arguments. _dhyper_ calculates density for the hypergeometric distribution.
+
+## WGCNA
+
+We used the WGCNA R package, version 1.66 [@bib40; @bib39] to construct signed co-expression networks using the entire dataset containing 24,015 genes. After the network construction, the gene set was filtered for minimal gene expression at an RPKM value of 0.25 or higher in at least two sample, resulting in a dataset consisting 17,195 genes. A correlation matrix using the biweight midcorrelation between all genes was computed for all relevant samples. The soft thresholding power was estimated and used to derive an adjacency matrix exhibiting approximate scale-free topology (_R_^2^ >0.85). The adjacency matrix was transformed to a topological overlap matrix (TOM). The matrix 1-TOM was used as the input to calculate co-expression modules using hierarchical clustering. Modules were branches of the hierarchical cluster tree base, with minimum module size set to 10 genes. Pearson’s correlation coefficients were used to calculate correlation between sample traits (e.g., sex, treatment) and modules. The expression profile of a given module was summarized by the module eigengene (ME). Modules with highly correlated MEs (correlation >0.80) were merged together. The module connectivity (kME) of each gene was calculated by correlating the gene expression profile with module eigengenes. The module connectivity (kME) of each gene was calculated by correlating the gene expression profile with module eigengenes. Genes with no network correlation were placed into the module Grey. Following manual data inspection further highly correlated modules were merged: BrRePi: Brown, Red, and Pink, YeMaBl: Yellow, Magenta, and Black.
+
+## Gene Ontology enrichment analysis
+
+Mouse Gene Ontology (GO) data was downloaded from Bioconductor (org.Mm.eg.db). We used the TopGO R package version 2.34.0 [@bib2] to test for enrichment of GO terms. For the analysis presented here, we restricted our testing to GO Biological Process annotations and required a minimal node size (number of genes annotated to GO terms) of 20. We used the internal ‘weight01’ testing framework and the Fisher test, a strategy recommended for gene set analysis that generally accounts for multiple testing comparisons. For GO BP analysis, we reported terms with p-value&lt;0.05. For all enrichment analysis, the test set of DE genes was compared against the background set of genes expressed in our study based on minimum read-count cutoffs described above. Heatmaps showing positive log~2~ (expected/observed) values were plotted for GO terms of interest.
+
+## Protein–protein interaction
+
+Protein–protein interaction enrichment and network generation for E12.5 DE (FDR &lt; 0.05) gene sets was performed using STRING [@bib77], version 11, considering only experimentally and text mining interactions, with at least medium interaction confidence score. Disconnected nodes were removed from the network.
+
+## Data analysis
+
+For all experiments, data was collected from at least two (usually three, and sometimes more, as indicated in each analysis) experiments and is presented as the mean ± SEM. Protein validation data were analyzed by Student’s _t_-test or one-way ANOVA, followed where appropriate by Tukey’s honestly significant difference _post hoc_ test (Graphpad Prism v.7). Significance was defined as: \*p&lt;0.05, \*\*p&lt;0.01, \*\*\*p&lt;0.001, \*\*\*\*p&lt;0.0001. Samples for RNA-seq were randomly collected across litters and processed blind to experimental condition. For differential gene expression analysis using edgeR, differences were considered statistically significant at high stringency for FDR &lt; 0.05, or with reduced stringency for p values &lt; 0.05.

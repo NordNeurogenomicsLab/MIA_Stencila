@@ -439,6 +439,7 @@ figure: Figure 1.
 :::
 ![](elife-60100.rmd.media/Fig1a.jpg)
 
+
 ```{r}
 
 # Global R markdown code chunk options
@@ -449,7 +450,9 @@ knitr::opts_chunk$set(message=FALSE,
                       cache=TRUE, 
                       fig.width = 7, fig.height = 6, 
                       fig.align = 'left')
+```
 
+```{r}
 # R packages
 library(sva)
 library(RUVnormalize)

@@ -34,7 +34,7 @@ authors:
 - givenNames: Myka L
   familyNames: Estes
   type: Person
-  emails: 
+  emails: ccanales@ucdavis.edu
   affiliations:
   - name: UC Davis
     address:

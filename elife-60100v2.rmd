@@ -453,27 +453,17 @@ knitr::opts_chunk$set(message=FALSE,
 ```
 
 ```{r}
-# R packages
-library(sva)
-library(RUVnormalize)
-library(pheatmap)
-library(edgeR)
-library(GenomicFeatures)
-library(mclust)
-library(parallel)
-library(ggplot2)
-library(reshape2)
-library(dplyr)
-library(data.table)
-library(DT)
-library(RColorBrewer)
-library(knitr)
-library(ggrepel)
-library(gridExtra)
-library(grid)
-library(plyr)
-library(plotly)
-library(Hmisc)
+# Installs packages if missing
+
+list.of.packages <- c("sva", "RUVnormalize", "pheatmap", "edgeR", "GenomicFeatures", "mclust", "parallel", "ggplot2", "reshape2", "dplyr", "data.table", "DT", "RColorBrewer", "knitr", "ggrepel", "gridExtra", "grid", "plyr", "plotly", "Hmisc")
+
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
+
+
+lapply(list.of.packages, require, character.only = TRUE)
+
+
 
 exp.data <- read.csv("./Extra_submission files/Gene_counts.csv")
 rownames(exp.data) <- exp.data$X

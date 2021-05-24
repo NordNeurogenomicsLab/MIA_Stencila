@@ -449,13 +449,6 @@ library(ggplot2)#version 3.2.1
 #  geom_point()
 ```
 
-```{r}
-#library(pander)
-#pander(sessionInfo())
-```
-
-
-
 
 ## Differential expression across embryonic brain development following maternal immune activation via poly(I:C) injection at E12.5.
 

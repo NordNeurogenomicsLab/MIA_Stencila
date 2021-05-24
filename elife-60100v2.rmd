@@ -445,8 +445,8 @@ figure: Figure 1.
 #graphical packages
 library(ggplot2)#version 3.2.1
 
-ggplot(mtcars,aes(x = cyl, y = mpg))+
-  geom_point()
+#ggplot(mtcars,aes(x = cyl, y = mpg))+
+#  geom_point()
 ```
 
 ```{r}

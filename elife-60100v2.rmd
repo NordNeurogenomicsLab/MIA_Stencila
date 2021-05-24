@@ -475,22 +475,22 @@ list.of.packages <- c("pheatmap",
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)) install.packages(new.packages)
 
-new.packages
+#new.packages
 
 
 # Installs Bioconductor packages
-if (!requireNamespace("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
+#if (!requireNamespace("BiocManager", quietly = TRUE))
+#    install.packages("BiocManager")
+#
+#BiocManager::install(c("sva", 
+#                       "RUVnormalize", 
+#                       "edgeR", 
+#                      "GenomicFeatures"), update = FALSE, ask = FALSE)
 
-BiocManager::install(c("sva", 
-                       "RUVnormalize", 
-                       "edgeR", 
-                      "GenomicFeatures"), update = FALSE, ask = FALSE)
-
-library("sva")
-library("RUVnormalize")
-library("edgeR")
-library("GenomicFeatures")
+#library("sva")
+#library("RUVnormalize")
+#library("edgeR")
+#library("GenomicFeatures")
 
 
 exp.data <- read.csv("./Extra_submission files/Gene_counts.csv")

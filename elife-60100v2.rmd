@@ -450,9 +450,11 @@ knitr::opts_chunk$set(message=FALSE,
                       cache=TRUE, 
                       fig.width = 7, fig.height = 6, 
                       fig.align = 'left')
+
+head(mtcars)
 ```
 
-```{r}
+```{r, eval=FALSE}
 # Installs CRAN packages if missing
 
 #list.of.packages <- c("pheatmap", 

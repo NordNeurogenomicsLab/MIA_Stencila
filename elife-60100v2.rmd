@@ -484,6 +484,8 @@ lapply(list.of.packages, require, character.only = TRUE)
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
 
+library("BiocManager")
+
 BiocManager::install(c("sva", 
                        "RUVnormalize", 
                        "edgeR", 

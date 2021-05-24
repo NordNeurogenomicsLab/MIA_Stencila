@@ -454,30 +454,30 @@ knitr::opts_chunk$set(message=FALSE,
 head(mtcars)
 ```
 
-```{r, eval=FALSE}
+```{r}
 # Installs CRAN packages if missing
 
-#list.of.packages <- c("pheatmap", 
-#                      "mclust", 
-#                      "parallel", 
-#                      "ggplot2", 
-#                      "reshape2", 
-#                      "dplyr", 
-#                      "data.table", 
-#                      "DT", 
-#                      "RColorBrewer", 
-#                      "knitr", 
-#                      "ggrepel", 
-#                      "gridExtra", 
-#                      "grid", 
-#                      "plyr", 
-#                      "plotly", 
-#                      "Hmisc")
+list.of.packages <- c("pheatmap", 
+                      "mclust", 
+                      "parallel", 
+                      "ggplot2", 
+                      "reshape2", 
+                      "dplyr", 
+                      "data.table", 
+                      "DT", 
+                      "RColorBrewer", 
+                      "knitr", 
+                      "ggrepel", 
+                      "gridExtra", 
+                      "grid", 
+                      "plyr", 
+                      "plotly", 
+                      "Hmisc")
 
-#new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
-#if(length(new.packages)) install.packages(new.packages)
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
 
-#new.packages
+head(new.packages)
 
 
 # Installs Bioconductor packages
@@ -489,10 +489,10 @@ head(mtcars)
 #                       "edgeR", 
 #                      "GenomicFeatures"), update = FALSE, ask = FALSE)
 
-#library("sva")
-#library("RUVnormalize")
-#library("edgeR")
-#library("GenomicFeatures")
+library("sva")
+library("RUVnormalize")
+library("edgeR")
+library("GenomicFeatures")
 
 
 exp.data <- read.csv("./Extra_submission files/Gene_counts.csv")

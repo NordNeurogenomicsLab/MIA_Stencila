@@ -442,7 +442,11 @@ ggplot(mtcars,aes(x = cyl, y = mpg))+
   geom_point()
 ```
 
+```{r}
+library(pander)
 
+pander(sessionInfo())
+```
 
 We used paired transcriptomic and neuroanatomical analyses to map changes in the fetal brain following MIA in a poly(I:C) mouse model ([Figure 1](#fig1), [Figure 1—figure supplement 1](#fig1s1), [Figure 1—figure supplement 2](#fig1s2) and [Figure 1—figure supplement 3](#fig1s3)). Induction of MIA via poly(I:C) injection at E12.5 produces relevant phenotypes in mice [@bib14; @bib70; @bib72] and the specific implementation of this model was recently validated in our hands to produce sufficient levels of MIA to mimic viral infection and cause aberrant behavioral outcomes in offspring [@bib25]. The dosage of 30 mg/ml poly(I:C) elicited substantial elevations in maternal serum IL-6 (on average 2200 pg/ml) 4 hr following injection ([Figure 1—figure supplement 1](#fig1s1)). Pregnant mice were injected with saline or poly(I:C) at E12.5, and dorsal telencephalon (E12.5 + 6 hr, E14.5, E17.5, and birth (P0)) was microdissected ([Figure 1a](#fig1)). RNA-seq datasets were generated from male and female embryos from 28 independent litters across control and MIA groups, typically with one to three embryos represented per independent litter ([Supplementary file 20](#supp20), [Supplementary file 5](#supp5), File source data 1). For control and MIA, 7 _vs._ 7 samples at E12.5, 13 _vs._ 13 samples at E14.5, 6 _vs._ 6 samples at E17.5, and 10 _vs._ 12 samples at P0, were compared in a differential expression (DE) analysis. For transcriptomic analysis, we used a strategy of first defining DE genes at each time-point using the general linear model (GLM) approach implemented in edgeR, followed by mapping DE signatures to systems-level expression patterns via module assignment using weighted gene co-expression network analysis (WGCNA).
 

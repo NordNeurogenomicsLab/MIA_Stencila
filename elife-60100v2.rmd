@@ -454,10 +454,19 @@ knitr::opts_chunk$set(message=FALSE,
 head(mtcars)
 ```
 
+```{r}
+# Installs CRAN packages if missing
+
+#library(ggplot2)
+#library(edgeR)
+
+ggplot(mtcars,aes(x = cyl, y = mpg))+
+  geom_point()
+```
 
 ```{r}
-library(pander)
-pander(sessionInfo())
+#library(pander)
+#pander(sessionInfo())
 ```
 
 

@@ -457,8 +457,8 @@ head(mtcars)
 ```{r}
 # Installs CRAN packages if missing
 
-library(ggplot2)
-library(edgeR)
+#library(ggplot2)
+#library(edgeR)
 
 sessionInfo()
 

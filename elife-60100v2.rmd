@@ -457,12 +457,16 @@ head(mtcars)
 ```{r}
 # Installs CRAN packages if missing
 
-#library(ggplot2)
+library(ggplot2)
 #library(edgeR)
 
-sessionInfo()
+ggplot(mtcars,aes(x = cyl, y = mpg))+
+  geom_point()
+```
 
-
+```{r}
+library(pander)
+pander(sessionInfo())
 ```
 
 

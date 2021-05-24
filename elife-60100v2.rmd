@@ -440,25 +440,10 @@ figure: Figure 1.
 ![](elife-60100.rmd.media/Fig1a.jpg)
 :::
 
-```{r}
-
-# Global R markdown code chunk options
-knitr::opts_chunk$set(message=FALSE, 
-                      warning = FALSE, 
-                      error=FALSE, 
-                      echo=TRUE, 
-                      cache=TRUE, 
-                      fig.width = 7, fig.height = 6, 
-                      fig.align = 'left')
-
-head(mtcars)
-```
 
 ```{r}
-# Installs CRAN packages if missing
-
-#library(ggplot2)
-#library(edgeR)
+#graphical packages
+library(ggplot2)#version 3.2.1
 
 ggplot(mtcars,aes(x = cyl, y = mpg))+
   geom_point()

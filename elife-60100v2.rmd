@@ -437,6 +437,7 @@ MIA-induced outcomes in adult offspring have been well characterized; however, m
 ```{r}
 #graphical packages
 library(ggplot2)#version 3.2.1
+library(edgeR)
 
 ggplot(mtcars,aes(x = cyl, y = mpg))+
   geom_point()

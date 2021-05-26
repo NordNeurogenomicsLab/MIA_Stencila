@@ -1,7 +1,5 @@
-FROM stencila/executa-midi@sha256:aaa5b49ae2787807df663b7d56cbd0c513b54fdcca421593c70f631f802b7f1b
+FROM rocker/tidyverse
 
 USER root
-RUN echo "r <- getOption('repos'); r['CRAN'] <- 'http://cran.us.r-project.org'; options(repos = r);" > ~/.Rprofile
-RUN Rscript -e "source('http://bioconductor.org/biocLite.R');biocLite(c('limma','GSA','Biobase','edgeR','locfit'))"
-RUN Rscript -e "install.packages(c('pheatmap','RColorBrewer','gProfileR','RJSONIO','httr'))"
+RUN Rscript -e "install.packages(c('pheatmap','RColorBrewer'))"
 USER guest

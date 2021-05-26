@@ -1,4 +1,4 @@
-FROM stencila/executa-midi:20210120.1
+FROM stencila/executa-midi@sha256:aaa5b49ae2787807df663b7d56cbd0c513b54fdcca421593c70f631f802b7f1b
 
 USER root
 RUN Rscript -e 'install.packages(c("pheatmap"))'

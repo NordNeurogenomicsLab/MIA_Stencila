@@ -1,5 +1,6 @@
-FROM rocker/tidyverse
+FROM stencila/executa-midi:20210120.1
 
 USER root
-RUN Rscript -e "install.packages(c('pheatmap','RColorBrewer'))"
+RUN Rscript install_packages.R
 USER guest
+

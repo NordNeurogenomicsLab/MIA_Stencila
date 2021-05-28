@@ -1,4 +1,4 @@
-FROM stencila/executa-midi
+FROM docker.io/stencila/executa-midi
 
 USER root
 RUN Rscript -e 'install.packages("pheatmap")'

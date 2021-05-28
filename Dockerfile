@@ -1,4 +1,4 @@
-FROM stencila/executa-midi:20210120.1
+FROM stencila/executa-midi
 
 USER root
 RUN Rscript -e 'install.packages("pheatmap")'

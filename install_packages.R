@@ -1,4 +1,6 @@
-if (!requireNamespace("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
+install.packages("pheatmap")
 
-BiocManager::install("edgeR", update = FALSE)
+#install.packages("BiocManager", quiet = TRUE)
+#library(BiocManager)
+#BiocManager::install("edgeR", update = FALSE)
+#BiocManager::install("sva", update = FALSE)

@@ -1,6 +1,0 @@
-FROM stencila/executa-midi:20210120.1
-
-USER root
-RUN Rscript install_packages.R
-USER guest
-

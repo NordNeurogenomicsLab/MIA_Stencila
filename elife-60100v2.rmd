@@ -435,14 +435,9 @@ MIA-induced outcomes in adult offspring have been well characterized; however, m
 
 
 ```{r}
-#graphical packages
-library(ggplot2)#version 3.2.1
-library(pheatmap)
+# Test code chunk
 
-ggplot(mtcars,aes(x = cyl, y = mpg))+
-  geom_point()
 
-head(mtcars)
 ```
 
 
@@ -451,7 +446,7 @@ We used paired transcriptomic and neuroanatomical analyses to map changes in the
 
 figure: Figure 1.
 :::
-![](elife-60100.rmd.media/Fig1a.jpg)
+![](elife-60100.rmd.media/fig1.jpg)
 :::
 
 
